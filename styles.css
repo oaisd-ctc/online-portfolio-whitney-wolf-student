@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    background-image: url("../images/background.jpg");
+    color: #f8a0c2;
+}
+
+header {
+    background-color: #fcd8e6;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+#about {
+    background-color: #fcd8e6;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+#experience {
+    background-color: #fcd8e6;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+#certifications {
+    background-color: #fcd8e6;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+#contact {
+    background-color: #fcd8e6;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    text-align: center;
+}
+img {
+    margin:5px;
+    border-style:solid;
+    border-color: #f8a0c2;
+}
+main {
+    margin:20px;
+}
